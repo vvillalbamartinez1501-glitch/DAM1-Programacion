@@ -1,0 +1,14 @@
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Archivos compilados de Java (no queremos subir el resultado, solo el código fuente)
+*.class
+out/
+target/
+build/
+
+# Archivos de sistema operativo (opcional pero recomendado)
+.DS_Store
+Thumbs.db
